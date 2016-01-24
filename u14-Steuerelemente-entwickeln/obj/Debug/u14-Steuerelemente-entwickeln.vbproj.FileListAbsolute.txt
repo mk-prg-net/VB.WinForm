@@ -1,0 +1,9 @@
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\bin\Debug\u14-Steuerelemente-entwickeln.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\bin\Debug\u14-Steuerelemente-entwickeln.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\bin\Debug\u14-Steuerelemente-entwickeln.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\obj\Debug\u14_Steuerelemente_entwickeln.IntBox.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\obj\Debug\u14_Steuerelemente_entwickeln.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\obj\Debug\u14-Steuerelemente-entwickeln.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\obj\Debug\u14-Steuerelemente-entwickeln.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\obj\Debug\u14-Steuerelemente-entwickeln.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u14-Steuerelemente-entwickeln\obj\Debug\u14-Steuerelemente-entwickeln.pdb

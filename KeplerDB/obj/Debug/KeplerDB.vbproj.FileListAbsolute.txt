@@ -1,0 +1,13 @@
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.dll.config
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.pdb

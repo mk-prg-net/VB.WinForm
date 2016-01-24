@@ -1,0 +1,24 @@
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe.config
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe.config
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.vbproj.GenerateResource.Cache

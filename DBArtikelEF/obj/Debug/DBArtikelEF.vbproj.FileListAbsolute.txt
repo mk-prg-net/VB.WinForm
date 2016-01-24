@@ -1,0 +1,28 @@
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.dll.config
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.pdb

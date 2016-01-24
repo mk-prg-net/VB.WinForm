@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+u8-ClassLib
+</name>
+</assembly>
+<members>
+<member name="P:u8_ClassLib.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:u8_ClassLib.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:u8_ClassLib.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:u8_ClassLib.GeneratorBase">
+	<summary>
+ Basisklasse aller Generatoren. Implementiert die Erzeugung von X- Werten auf einem 
+ abzutastenden Intervall
+ </summary>
+	<remarks></remarks>
+</member><member name="T:u8_ClassLib.Interval">
+	<summary>
+ Definiert ein abgeschlossenes Intervall auf dem Zahlenstrahl
+ </summary>
+	<remarks></remarks>
+</member><member name="P:u8_ClassLib.Sinusgenerator.Frequency">
+	<summary>
+ Schwingungsperioden pro 2Pi
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:u8_ClassLib.Sinusgenerator.Amplitude">
+	<summary>
+ "Ausschlag" der Sinusschwingungen
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:u8_ClassLib.Sinusgenerator.GenerateX(u8_ClassLib.Interval,System.Int32)">
+	<summary>
+ Erzeugt aus den Eingaben eine X- Achse
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:u8_ClassLib.Sinusgenerator.GenerateY(u8_ClassLib.Interval,System.Int32)">
+	<summary>
+ Erzeugt aus den Eingaben eine X- Achse
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:u8_ClassLib.Sinusgenerator">
+	<summary>
+ Generator für Sinusfunktionen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:u8_ClassLib.Superposition.#ctor(u8_ClassLib.IGenerator[])">
+	<summary>
+ Konstruktor
+ </summary>
+	<param name="Generatoren">Generatoren, deren Signale überlagert werden sollen</param>
+	<remarks></remarks>
+</member><member name="T:u8_ClassLib.Superposition">
+	<summary>
+ Generator, der aus der überlagerung der Ausgänge mehrerer Generatoren
+ (Superposition) ein Signal erzeugt
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

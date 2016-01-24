@@ -1,0 +1,12 @@
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\bin\Release\u04_Ressourcen.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\bin\Release\u04_Ressourcen.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\bin\Release\u04_Ressourcen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\bin\Release\u04_Ressourcen.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\obj\Release\u04_Ressourcen.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\obj\Release\u04_Ressourcen.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\obj\Release\u04_Ressourcen.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\obj\Release\u04_Ressourcen.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\obj\Release\u04_Ressourcen.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\obj\Release\u04_Ressourcen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\bin\Release\Resources\MeinePng.png
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u04_Ressourcen\bin\Release\Resources\smiley2.png

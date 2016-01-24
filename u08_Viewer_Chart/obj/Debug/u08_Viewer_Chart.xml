@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+u08_Viewer_Chart
+</name>
+</assembly>
+<members>
+<member name="F:u08_Viewer_Chart.Form1.sinGen">
+	<summary>
+ Sinusgenerator für y = sin(x)
+ </summary>
+	<remarks></remarks>
+</member><member name="P:u08_Viewer_Chart.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:u08_Viewer_Chart.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:u08_Viewer_Chart.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,33 @@
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.MyFormTemplate.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.DlgInfo.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.exe.config
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.DlgInfo.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.MyFormTemplate.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.exe.config
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.DlgInfo.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.MyFormTemplate.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u01_WinformGrundlagen\obj\Debug\u01_WinformGrundlagen.vbproj.GenerateResource.Cache

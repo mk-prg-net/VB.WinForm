@@ -1,0 +1,60 @@
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.exe.config
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.exe
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.xml
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.Form1.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.dll
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.pdb
+C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.exe.config
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_Viewer_Chart.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.dll
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.dll
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u08_ControlsLib.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\bin\Debug\u8-ClassLib.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Viewer_Chart\obj\Debug\u08_Viewer_Chart.vbproj.GenerateResource.Cache
