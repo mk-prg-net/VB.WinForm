@@ -28,3 +28,17 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u03_Anw
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.Form1.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\bin\Debug\u03_Anwendungseinstellungen.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\bin\Debug\u03_Anwendungseinstellungen.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\bin\Debug\u03_Anwendungseinstellungen.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\bin\Debug\u03_Anwendungseinstellungen.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u03_Anwendungseinstellungen\bin\Debug\u03_Anwendungseinstellungen.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u03_Anwendungseinstellungen\obj\Debug\u03_Anwendungseinstellungen.pdb

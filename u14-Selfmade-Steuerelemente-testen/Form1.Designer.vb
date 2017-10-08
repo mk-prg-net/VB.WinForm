@@ -35,7 +35,7 @@ Partial Class Form1
         '
         'IntBox1
         '
-        Me.IntBox1.Caption = "Meine INtergereingabe"
+        Me.IntBox1.Caption = "Meine Intergereingabe"
         Me.IntBox1.Location = New System.Drawing.Point(12, 12)
         Me.IntBox1.Name = "IntBox1"
         Me.IntBox1.Size = New System.Drawing.Size(113, 50)

@@ -6,28 +6,27 @@ u8-ClassLib
 </name>
 </assembly>
 <members>
-<member name="P:u8_ClassLib.My.Resources.Resources.ResourceManager">
+<member name="T:u8_ClassLib.Interval">
 	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:u8_ClassLib.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:u8_ClassLib.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
+ Definiert ein abgeschlossenes Intervall auf dem Zahlenstrahl
+ </summary>
+	<remarks></remarks>
 </member><member name="T:u8_ClassLib.GeneratorBase">
 	<summary>
  Basisklasse aller Generatoren. Implementiert die Erzeugung von X- Werten auf einem 
  abzutastenden Intervall
  </summary>
 	<remarks></remarks>
-</member><member name="T:u8_ClassLib.Interval">
+</member><member name="M:u8_ClassLib.Superposition.#ctor(u8_ClassLib.IGenerator[])">
 	<summary>
- Definiert ein abgeschlossenes Intervall auf dem Zahlenstrahl
+ Konstruktor
+ </summary>
+	<param name="Generatoren">Generatoren, deren Signale überlagert werden sollen</param>
+	<remarks></remarks>
+</member><member name="T:u8_ClassLib.Superposition">
+	<summary>
+ Generator, der aus der überlagerung der Ausgänge mehrerer Generatoren
+ (Superposition) ein Signal erzeugt
  </summary>
 	<remarks></remarks>
 </member><member name="P:u8_ClassLib.Sinusgenerator.Frequency">
@@ -61,18 +60,19 @@ u8-ClassLib
  Generator für Sinusfunktionen
  </summary>
 	<remarks></remarks>
-</member><member name="M:u8_ClassLib.Superposition.#ctor(u8_ClassLib.IGenerator[])">
+</member><member name="P:u8_ClassLib.My.Resources.Resources.ResourceManager">
 	<summary>
- Konstruktor
- </summary>
-	<param name="Generatoren">Generatoren, deren Signale überlagert werden sollen</param>
-	<remarks></remarks>
-</member><member name="T:u8_ClassLib.Superposition">
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:u8_ClassLib.My.Resources.Resources.Culture">
 	<summary>
- Generator, der aus der überlagerung der Ausgänge mehrerer Generatoren
- (Superposition) ein Signal erzeugt
- </summary>
-	<remarks></remarks>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:u8_ClassLib.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>

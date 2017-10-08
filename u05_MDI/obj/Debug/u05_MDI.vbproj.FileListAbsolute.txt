@@ -36,3 +36,48 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u05_MDI
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MyChildForm.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MDIParent1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MyChildForm.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MDIParent1.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MyChildForm.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe.manifest
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.application
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.exe.manifest
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.application
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe.manifest
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.application
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MDIParent1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.MyChildForm.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.exe.manifest
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.application
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe.manifest
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.application
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\bin\Debug\u05_MDI.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.exe.manifest
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u05_MDI\obj\Debug\u05_MDI.application

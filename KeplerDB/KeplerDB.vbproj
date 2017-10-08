@@ -72,6 +72,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AufgabenTab.vb">
+      <DependentUpon>KeplerDB.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BildTab.vb">
+      <DependentUpon>KeplerDB.tt</DependentUpon>
+    </Compile>
     <Compile Include="Class1.vb" />
     <Compile Include="HimmelskoerperTab.vb">
       <DependentUpon>KeplerDB.tt</DependentUpon>
@@ -112,10 +118,10 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="RaumschiffAufgabenTab.vb">
+    <Compile Include="RaumschiffeTab.vb">
       <DependentUpon>KeplerDB.tt</DependentUpon>
     </Compile>
-    <Compile Include="RaumschiffeTab.vb">
+    <Compile Include="SpektralklasseTab.vb">
       <DependentUpon>KeplerDB.tt</DependentUpon>
     </Compile>
     <Compile Include="Sterne_Planeten_MondeTab.vb">

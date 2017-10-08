@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="u05_MDI.exe" size="753664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="u05_MDI.exe" size="754176">
       <assemblyIdentity name="u05_MDI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DPkgW8rPUv9XuSA7K0rDnU5PDgXls9t+JFbA7OWIzn0=</dsig:DigestValue>
+        <dsig:DigestValue>EnItG1o+o3OIFVCCGx4tck1sO64qj4/bmWZp7Ne5nEg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

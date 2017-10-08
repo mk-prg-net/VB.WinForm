@@ -23,10 +23,10 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Panel1 = New System.Windows.Forms.Panel()
-        Me.tbxEdit = New System.Windows.Forms.TextBox()
-        Me.btnCopyTxt = New System.Windows.Forms.Button()
-        Me.btnPaste = New System.Windows.Forms.Button()
         Me.btnSelectLast5 = New System.Windows.Forms.Button()
+        Me.btnPaste = New System.Windows.Forms.Button()
+        Me.btnCopyTxt = New System.Windows.Forms.Button()
+        Me.tbxEdit = New System.Windows.Forms.TextBox()
         Me.TabControlMain.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -54,25 +54,14 @@ Partial Class Form1
         Me.Panel1.Size = New System.Drawing.Size(684, 61)
         Me.Panel1.TabIndex = 0
         '
-        'tbxEdit
+        'btnSelectLast5
         '
-        Me.tbxEdit.BackColor = System.Drawing.SystemColors.Info
-        Me.tbxEdit.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.tbxEdit.Location = New System.Drawing.Point(3, 64)
-        Me.tbxEdit.Multiline = True
-        Me.tbxEdit.Name = "tbxEdit"
-        Me.tbxEdit.ScrollBars = System.Windows.Forms.ScrollBars.Both
-        Me.tbxEdit.Size = New System.Drawing.Size(684, 461)
-        Me.tbxEdit.TabIndex = 1
-        '
-        'btnCopyTxt
-        '
-        Me.btnCopyTxt.Location = New System.Drawing.Point(5, 3)
-        Me.btnCopyTxt.Name = "btnCopyTxt"
-        Me.btnCopyTxt.Size = New System.Drawing.Size(75, 23)
-        Me.btnCopyTxt.TabIndex = 0
-        Me.btnCopyTxt.Text = "Kopieren"
-        Me.btnCopyTxt.UseVisualStyleBackColor = True
+        Me.btnSelectLast5.Location = New System.Drawing.Point(179, 3)
+        Me.btnSelectLast5.Name = "btnSelectLast5"
+        Me.btnSelectLast5.Size = New System.Drawing.Size(110, 23)
+        Me.btnSelectLast5.TabIndex = 2
+        Me.btnSelectLast5.Text = "Letzte 5 Zeichen selektieren"
+        Me.btnSelectLast5.UseVisualStyleBackColor = True
         '
         'btnPaste
         '
@@ -83,14 +72,25 @@ Partial Class Form1
         Me.btnPaste.Text = "Einfügen"
         Me.btnPaste.UseVisualStyleBackColor = True
         '
-        'btnSelectLast5
+        'btnCopyTxt
         '
-        Me.btnSelectLast5.Location = New System.Drawing.Point(179, 3)
-        Me.btnSelectLast5.Name = "btnSelectLast5"
-        Me.btnSelectLast5.Size = New System.Drawing.Size(110, 23)
-        Me.btnSelectLast5.TabIndex = 2
-        Me.btnSelectLast5.Text = "Letzte 5 Zeichen selektieren"
-        Me.btnSelectLast5.UseVisualStyleBackColor = True
+        Me.btnCopyTxt.Location = New System.Drawing.Point(5, 3)
+        Me.btnCopyTxt.Name = "btnCopyTxt"
+        Me.btnCopyTxt.Size = New System.Drawing.Size(75, 23)
+        Me.btnCopyTxt.TabIndex = 0
+        Me.btnCopyTxt.Text = "Kopieren"
+        Me.btnCopyTxt.UseVisualStyleBackColor = True
+        '
+        'tbxEdit
+        '
+        Me.tbxEdit.BackColor = System.Drawing.SystemColors.Info
+        Me.tbxEdit.Dock = System.Windows.Forms.DockStyle.Fill
+        Me.tbxEdit.Location = New System.Drawing.Point(3, 64)
+        Me.tbxEdit.Multiline = True
+        Me.tbxEdit.Name = "tbxEdit"
+        Me.tbxEdit.ScrollBars = System.Windows.Forms.ScrollBars.Both
+        Me.tbxEdit.Size = New System.Drawing.Size(684, 461)
+        Me.tbxEdit.TabIndex = 1
         '
         'Form1
         '

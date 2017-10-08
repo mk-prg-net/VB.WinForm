@@ -26,3 +26,25 @@ C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u14-Selfmade
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.exe
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.xml
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Selfmade-Steuerelemente-testen.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Selfmade-Steuerelemente-testen.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Selfmade-Steuerelemente-testen.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Selfmade-Steuerelemente-testen.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Steuerelemente-entwickeln.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Steuerelemente-entwickeln.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Steuerelemente-entwickeln.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14_Selfmade_Steuerelemente_testen.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14_Selfmade_Steuerelemente_testen.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Selfmade-Steuerelemente-testen.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u14-Selfmade-Steuerelemente-testen\bin\Debug\u14-Selfmade-Steuerelemente-testen.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u14-Selfmade-Steuerelemente-testen\obj\Debug\u14-Selfmade-Steuerelemente-testen.pdb

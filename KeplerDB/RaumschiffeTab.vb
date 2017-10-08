@@ -12,13 +12,12 @@ Imports System.Collections.Generic
 
 Partial Public Class RaumschiffeTab
     Public Property Start_der_Mission As Date
-    Public Property ID As Integer
-    Public Property Himmelskoerper_ID As Integer
+    Public Property HimmelskoerperID As Integer
     Public Property Land_ID As Integer
     Public Property RaumschiffAufgaben_ID As Integer
 
     Public Overridable Property HimmelskoerperTab As HimmelskoerperTab
     Public Overridable Property LaenderTab As LaenderTab
-    Public Overridable Property RaumschiffAufgabenTab As RaumschiffAufgabenTab
+    Public Overridable Property AufgabenTab As ICollection(Of AufgabenTab) = New HashSet(Of AufgabenTab)
 
 End Class

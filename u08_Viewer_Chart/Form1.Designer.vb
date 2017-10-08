@@ -26,12 +26,15 @@ Partial Class Form1
         Dim Legend1 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
         Dim Series1 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
         Me.SplitContainer1 = New System.Windows.Forms.SplitContainer()
-        Me.DefSampleCount = New u08_ControlsLib.DefInteger()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.DefIntervalGenerators = New u08_ControlsLib.DefInterval()
         Me.btnSin2x = New System.Windows.Forms.Button()
         Me.btnGenSinus = New System.Windows.Forms.Button()
         Me.Chart1 = New System.Windows.Forms.DataVisualization.Charting.Chart()
+        Me.TextBoxAktivierbar1 = New u08_ControlsLib.TextBoxAktivierbar()
+        Me.DefInteger1 = New u08_ControlsLib.DefInteger()
+        Me.DefSampleCount = New u08_ControlsLib.DefInteger()
+        Me.DefIntervalGenerators = New u08_ControlsLib.DefInterval()
+        Me.btnProcessTbx = New System.Windows.Forms.Button()
         Me.TabControlMain.SuspendLayout()
         Me.TabPage2.SuspendLayout()
         CType(Me.SplitContainer1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -59,6 +62,9 @@ Partial Class Form1
         'SplitContainer1.Panel1
         '
         Me.SplitContainer1.Panel1.BackColor = System.Drawing.Color.FromArgb(CType(CType(192, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(255, Byte), Integer))
+        Me.SplitContainer1.Panel1.Controls.Add(Me.btnProcessTbx)
+        Me.SplitContainer1.Panel1.Controls.Add(Me.TextBoxAktivierbar1)
+        Me.SplitContainer1.Panel1.Controls.Add(Me.DefInteger1)
         Me.SplitContainer1.Panel1.Controls.Add(Me.DefSampleCount)
         Me.SplitContainer1.Panel1.Controls.Add(Me.Label1)
         Me.SplitContainer1.Panel1.Controls.Add(Me.DefIntervalGenerators)
@@ -72,16 +78,6 @@ Partial Class Form1
         Me.SplitContainer1.SplitterDistance = 343
         Me.SplitContainer1.TabIndex = 0
         '
-        'DefSampleCount
-        '
-        Me.DefSampleCount.BackColor = System.Drawing.SystemColors.Window
-        Me.DefSampleCount.Caption = "#Samples"
-        Me.DefSampleCount.Location = New System.Drawing.Point(245, 28)
-        Me.DefSampleCount.Name = "DefSampleCount"
-        Me.DefSampleCount.Size = New System.Drawing.Size(79, 47)
-        Me.DefSampleCount.TabIndex = 4
-        Me.DefSampleCount.Value = 100
-        '
         'Label1
         '
         Me.Label1.AutoSize = True
@@ -90,14 +86,6 @@ Partial Class Form1
         Me.Label1.Size = New System.Drawing.Size(44, 13)
         Me.Label1.TabIndex = 3
         Me.Label1.Text = "Intervall"
-        '
-        'DefIntervalGenerators
-        '
-        Me.DefIntervalGenerators.BackColor = System.Drawing.SystemColors.Window
-        Me.DefIntervalGenerators.Location = New System.Drawing.Point(8, 28)
-        Me.DefIntervalGenerators.Name = "DefIntervalGenerators"
-        Me.DefIntervalGenerators.Size = New System.Drawing.Size(231, 47)
-        Me.DefIntervalGenerators.TabIndex = 2
         '
         'btnSin2x
         '
@@ -135,6 +123,51 @@ Partial Class Form1
         Me.Chart1.TabIndex = 0
         Me.Chart1.Text = "Chart1"
         '
+        'TextBoxAktivierbar1
+        '
+        Me.TextBoxAktivierbar1.Caption = "Meine Beschriftung"
+        Me.TextBoxAktivierbar1.Location = New System.Drawing.Point(8, 269)
+        Me.TextBoxAktivierbar1.Name = "TextBoxAktivierbar1"
+        Me.TextBoxAktivierbar1.Size = New System.Drawing.Size(218, 42)
+        Me.TextBoxAktivierbar1.TabIndex = 6
+        '
+        'DefInteger1
+        '
+        Me.DefInteger1.BackColor = System.Drawing.SystemColors.Window
+        Me.DefInteger1.Caption = "Caption"
+        Me.DefInteger1.Location = New System.Drawing.Point(32, 193)
+        Me.DefInteger1.Name = "DefInteger1"
+        Me.DefInteger1.Size = New System.Drawing.Size(79, 45)
+        Me.DefInteger1.TabIndex = 5
+        Me.DefInteger1.Value = 0
+        '
+        'DefSampleCount
+        '
+        Me.DefSampleCount.BackColor = System.Drawing.SystemColors.Window
+        Me.DefSampleCount.Caption = "#Samples"
+        Me.DefSampleCount.Location = New System.Drawing.Point(245, 28)
+        Me.DefSampleCount.Name = "DefSampleCount"
+        Me.DefSampleCount.Size = New System.Drawing.Size(79, 47)
+        Me.DefSampleCount.TabIndex = 4
+        Me.DefSampleCount.Value = 100
+        '
+        'DefIntervalGenerators
+        '
+        Me.DefIntervalGenerators.BackColor = System.Drawing.SystemColors.Window
+        Me.DefIntervalGenerators.Location = New System.Drawing.Point(8, 28)
+        Me.DefIntervalGenerators.Name = "DefIntervalGenerators"
+        Me.DefIntervalGenerators.Size = New System.Drawing.Size(231, 47)
+        Me.DefIntervalGenerators.TabIndex = 2
+        '
+        'btnProcessTbx
+        '
+        Me.btnProcessTbx.Location = New System.Drawing.Point(8, 317)
+        Me.btnProcessTbx.Name = "btnProcessTbx"
+        Me.btnProcessTbx.Size = New System.Drawing.Size(156, 23)
+        Me.btnProcessTbx.TabIndex = 7
+        Me.btnProcessTbx.Text = "Meine aktivierbare Textbox auswerten"
+        Me.btnProcessTbx.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -160,5 +193,8 @@ Partial Class Form1
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents DefIntervalGenerators As u08_ControlsLib.DefInterval
     Friend WithEvents DefSampleCount As u08_ControlsLib.DefInteger
+    Friend WithEvents DefInteger1 As u08_ControlsLib.DefInteger
+    Friend WithEvents TextBoxAktivierbar1 As u08_ControlsLib.TextBoxAktivierbar
+    Friend WithEvents btnProcessTbx As System.Windows.Forms.Button
 
 End Class

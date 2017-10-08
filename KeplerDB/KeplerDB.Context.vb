@@ -22,11 +22,13 @@ Partial Public Class KeplerDBEntities
         Throw New UnintentionalCodeFirstException()
     End Sub
 
+    Public Property AufgabenTab() As DbSet(Of AufgabenTab)
+    Public Property BildTab() As DbSet(Of BildTab)
     Public Property HimmelskoerperTab() As DbSet(Of HimmelskoerperTab)
     Public Property HimmelskoerperTypenTab() As DbSet(Of HimmelskoerperTypenTab)
     Public Property LaenderTab() As DbSet(Of LaenderTab)
-    Public Property RaumschiffAufgabenTab() As DbSet(Of RaumschiffAufgabenTab)
     Public Property RaumschiffeTab() As DbSet(Of RaumschiffeTab)
+    Public Property SpektralklasseTab() As DbSet(Of SpektralklasseTab)
     Public Property Sterne_Planeten_MondeTab() As DbSet(Of Sterne_Planeten_MondeTab)
     Public Property UmlaufbahnenTab() As DbSet(Of UmlaufbahnenTab)
     Public Property UrlSammlungenTab() As DbSet(Of UrlSammlungenTab)

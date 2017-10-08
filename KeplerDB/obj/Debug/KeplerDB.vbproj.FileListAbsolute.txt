@@ -11,3 +11,30 @@ C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.dll
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.xml
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.dll.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\KeplerDB.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KeplerDB\obj\Debug\KeplerDB.vbprojResolveAssemblyReference.cache

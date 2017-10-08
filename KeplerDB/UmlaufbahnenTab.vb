@@ -15,8 +15,7 @@ Partial Public Class UmlaufbahnenTab
     Public Property Exzentritzitaet As Double
     Public Property Umlaufdauer_in_Tagen As Double
     Public Property Mittlere_Umlaufgeschwindigkeit_in_km_pro_sec As Double
-    Public Property ID As Integer
-    Public Property Trabant_ID As Integer
+    Public Property TrabantID As Integer
     Public Property Zentralobjekt_ID As Integer
 
     Public Overridable Property HimmelskoerperTab As HimmelskoerperTab

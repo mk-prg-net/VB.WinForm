@@ -17,6 +17,8 @@
 
         ValidateTbx(tbxA, lblStatA, A)
 
+        'e.Cancel = True
+
     End Sub
 
 
@@ -54,4 +56,6 @@
 
         End If
     End Sub
+
+
 End Class

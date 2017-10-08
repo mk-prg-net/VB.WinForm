@@ -1,0 +1,72 @@
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll.CodeAnalysisLog.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll.lastcodeanalysissucceeded
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.Test.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\bin\Debug\KurvenzauberLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib.Test\obj\Debug\KurvenzauberLib.Test.pdb

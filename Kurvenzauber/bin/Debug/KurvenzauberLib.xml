@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KurvenzauberLib
+</name>
+</assembly>
+<members>
+<member name="M:KurvenzauberLib.PointFPolar.#ctor">
+	<summary>
+ Defaultkonstruktor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:KurvenzauberLib.PointFPolar.#ctor(System.Single,System.Single)">
+	<summary>
+ Konstruktor, der Polarkoordinaten setzt
+ </summary>
+	<param name="Radius"></param>
+	<param name="PhiInRad"></param>
+	<remarks></remarks>
+</member><member name="M:KurvenzauberLib.PointFPolar.#ctor(System.Drawing.PointF)">
+	<summary>
+ Erstellt aus kartesischen Koordinaten Polarkoordinaten
+ </summary>
+	<param name="P"></param>
+	<remarks></remarks>
+</member><member name="F:KurvenzauberLib.PointFPolar.PhiInRad">
+	<summary>
+ Radius in Bogenmasz
+ </summary>
+	<remarks></remarks>
+</member><member name="P:KurvenzauberLib.PointFPolar.PhiInGrad">
+	<summary>
+ Radius in Grad
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:KurvenzauberLib.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member><member name="P:KurvenzauberLib.My.Resources.Resources.Culture">
+	<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="T:KurvenzauberLib.My.Resources.Resources">
+	<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+</members>
+</doc>

@@ -66,4 +66,7 @@
     End Sub
 
    
+    Private Sub btnProcessTbx_Click(sender As Object, e As EventArgs) Handles btnProcessTbx.Click
+        MessageBox.Show(TextBoxAktivierbar1.tbxValue.Text)
+    End Sub
 End Class

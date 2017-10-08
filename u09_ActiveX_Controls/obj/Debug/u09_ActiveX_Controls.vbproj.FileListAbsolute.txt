@@ -40,3 +40,47 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u09_Act
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Form1.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\Interop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\AxInterop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\Interop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\Interop.SHDocVw.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\AxInterop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.ResolveComReference.cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\Interop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\Interop.SHDocVw.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\AxInterop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.ResolveComReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\u09_ActiveX_Controls.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\Interop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\AxInterop.CTVLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\Interop.Microsoft.Office.Interop.MSProject.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.ResolveComReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u09_ActiveX_Controls\obj\Debug\u09_ActiveX_Controls.pdb

@@ -1,0 +1,66 @@
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBNETGK\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll.CodeAnalysisLog.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll.lastcodeanalysissucceeded
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\Users\marti_000\Documents\prj\NET\2014-10-20-pcc-vb-winform\GUI2014\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\bin\Debug\KurvenzauberLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\bin\Debug\KurvenzauberLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\bin\Debug\KurvenzauberLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\obj\Debug\KurvenzauberLib.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\obj\Debug\KurvenzauberLib.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\obj\Debug\KurvenzauberLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\obj\Debug\KurvenzauberLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\KurvenzauberLib\obj\Debug\KurvenzauberLib.pdb

@@ -22,3 +22,19 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u8-Clas
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.dll
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.xml
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\bin\Debug\u8-ClassLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\bin\Debug\u8-ClassLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\bin\Debug\u8-ClassLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\obj\Debug\u8_ClassLib.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\bin\Debug\u8-ClassLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\bin\Debug\u8-ClassLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\bin\Debug\u8-ClassLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\obj\Debug\u8_ClassLib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u8-ClassLib\obj\Debug\u8-ClassLib.pdb

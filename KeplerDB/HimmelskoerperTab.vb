@@ -15,12 +15,15 @@ Partial Public Class HimmelskoerperTab
     Public Property Name As String
     Public Property Masse_in_kg As Double
     Public Property HimmelskoerperTyp_ID As Integer
+    Public Property SpektralklasseId As Nullable(Of Integer)
 
+    Public Overridable Property BildTab As ICollection(Of BildTab) = New HashSet(Of BildTab)
+    Public Overridable Property RaumschiffeTab As RaumschiffeTab
+    Public Overridable Property Sterne_Planeten_MondeTab As Sterne_Planeten_MondeTab
     Public Overridable Property HimmelskoerperTypenTab As HimmelskoerperTypenTab
-    Public Overridable Property RaumschiffeTab As ICollection(Of RaumschiffeTab) = New HashSet(Of RaumschiffeTab)
-    Public Overridable Property Sterne_Planeten_MondeTab As ICollection(Of Sterne_Planeten_MondeTab) = New HashSet(Of Sterne_Planeten_MondeTab)
+    Public Overridable Property SpektralklasseTab As SpektralklasseTab
     Public Overridable Property UrlSammlungenTab As ICollection(Of UrlSammlungenTab) = New HashSet(Of UrlSammlungenTab)
-    Public Overridable Property UmlaufbahnenTab As ICollection(Of UmlaufbahnenTab) = New HashSet(Of UmlaufbahnenTab)
+    Public Overridable Property UmlaufbahnenTab As UmlaufbahnenTab
     Public Overridable Property UmlaufbahnenTab1 As ICollection(Of UmlaufbahnenTab) = New HashSet(Of UmlaufbahnenTab)
 
 End Class

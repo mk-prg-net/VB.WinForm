@@ -30,3 +30,19 @@ C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\bin\Debug
 C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.exe
 C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.xml
 C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\bin\Debug\WinFormTemplate.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\bin\Debug\WinFormTemplate.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\bin\Debug\WinFormTemplate.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.DefaultInfoForm.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.Main.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.TechnicalBaseForm.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\WinFormTemplate\bin\Debug\WinFormTemplate.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\WinFormTemplate\bin\Debug\WinFormTemplate.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\WinFormTemplate\obj\Debug\WinFormTemplate.pdb

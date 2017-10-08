@@ -17,8 +17,8 @@ Partial Public Class Sterne_Planeten_MondeTab
     Public Property Rotationsperiode_in_Stunden As Double
     Public Property Fallbeschleunigung_in_meter_pro_sec As Double
     Public Property Rotationsachsenneigung_in_Grad As Double
-    Public Property ID As Integer
-    Public Property Himmelskoerper_ID As Integer
+    Public Property HimmelskoerperID As Integer
+    Public Property Leuchtkraft_in_Lsonne As Double
 
     Public Overridable Property HimmelskoerperTab As HimmelskoerperTab
 

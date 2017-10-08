@@ -6,7 +6,18 @@ u13-Dialoge
 </name>
 </assembly>
 <members>
-<member name="P:u13_Dialoge.ICoffee.Hot">
+<member name="M:u13_Dialoge.CoffeeOrder.#ctor">
+	<summary>
+ PArameterloser Konstruktor wird vom Serialisierer benötigt
+ </summary>
+	<remarks></remarks>
+</member><member name="M:u13_Dialoge.CoffeeOrder.#ctor(u13_Dialoge.ICoffee)">
+	<summary>
+ Erstellt aus einer vorhandenen Order eine Kopie 
+ </summary>
+	<param name="order"></param>
+	<remarks></remarks>
+</member><member name="P:u13_Dialoge.ICoffee.Hot">
 	<summary>
  Wenn true, dann bitte ein heißen Kaffee
  </summary>
@@ -40,17 +51,6 @@ u13-Dialoge
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:u13_Dialoge.CoffeeOrder.#ctor">
-	<summary>
- PArameterloser Konstruktor wird vom Serialisierer benötigt
- </summary>
-	<remarks></remarks>
-</member><member name="M:u13_Dialoge.CoffeeOrder.#ctor(u13_Dialoge.ICoffee)">
-	<summary>
- Erstellt aus einer vorhandenen Order eine Kopie 
- </summary>
-	<param name="order"></param>
-	<remarks></remarks>
 </member>
 </members>
 </doc>

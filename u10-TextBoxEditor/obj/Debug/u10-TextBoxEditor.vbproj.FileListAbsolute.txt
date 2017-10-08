@@ -25,3 +25,44 @@ C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u10-TextBoxE
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.xml
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.pdb
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10_TextBoxEditor.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10_TextBoxEditor.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10_TextBoxEditor.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10_TextBoxEditor.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u10-TextBoxEditor.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\bin\Debug\u01_WinformGrundlagen.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10_TextBoxEditor.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10_TextBoxEditor.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u10-TextBoxEditor\obj\Debug\u10-TextBoxEditor.vbproj.GenerateResource.Cache

@@ -26,3 +26,16 @@ C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.dll
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.xml
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.dll.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\DBArtikelEF.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\DBArtikelEF\obj\Debug\DBArtikelEF.pdb

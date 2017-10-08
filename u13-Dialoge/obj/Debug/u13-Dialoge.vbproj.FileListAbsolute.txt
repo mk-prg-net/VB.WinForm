@@ -20,3 +20,22 @@ C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u13-Dialoge\
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u13-Dialoge\obj\Debug\u13_Dialoge.Form1.resources
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u13-Dialoge\obj\Debug\u13_Dialoge.Resources.resources
 C:\trac\projekt\lernen-dot-net\2014-10-20-pcc-vb-winform\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\bin\Debug\u13-Dialoge.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\bin\Debug\u13-Dialoge.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\bin\Debug\u13-Dialoge.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\bin\Debug\u13-Dialoge.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13_Dialoge.DlgConfigKaffee.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13_Dialoge.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13_Dialoge.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u13-Dialoge\bin\Debug\u13-Dialoge.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u13-Dialoge\bin\Debug\u13-Dialoge.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u13-Dialoge\obj\Debug\u13-Dialoge.pdb

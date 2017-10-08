@@ -26,3 +26,47 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_Con
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.dll
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.xml
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.DefInteger.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.DefInterval.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.DefInteger.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.DefInterval.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\bin\Debug\u08_ControlsLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\bin\Debug\u8-ClassLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.DefInteger.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.DefInterval.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.TextBoxAktivierbar.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u08_ControlsLib\obj\Debug\u08_ControlsLib.TextBoxAktivierbar.resources

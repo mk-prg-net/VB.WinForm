@@ -22,3 +22,27 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Val
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Form1.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.exe
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.xml
+C:\Users\marti_000\Documents\prj\NET\2016-06-27-pcc-VB-Texte\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\bin\Debug\u07_Validierung.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.WinForm\u07_Validierung\obj\Debug\u07_Validierung.vbproj.GenerateResource.Cache
